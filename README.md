@@ -3,7 +3,18 @@
  
 Phần 1 :Cài đặt cơ sở dữ liệu 
 Bước 1: cài đặt XMAPP : https://www.apachefriends.org/index.html
+
+
+
+
+
+
 Bước 2: cài đặt HEIDISQL : https://www.heidisql.com/download.php
+
+
+
+
+
 Bước 3: Start apache và mysql trong XMAPP
 
 Phần 2 :chay sql
