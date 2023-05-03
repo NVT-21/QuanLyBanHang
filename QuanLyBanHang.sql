@@ -92,7 +92,7 @@ COLLATE='utf8mb4_general_ci'
 ENGINE=INNODB;
 INSERT INTO `user` (`TenDangNhap`, `MatKhau`, `MatKhauNhapLai`, `MaNV`) 
 VALUES ('admin', '123456', '123456', '237'),
-VALUES ('admin1', '123456', '123456', '236');
+('admin1', '123456', '123456', '236');
 
 
 
