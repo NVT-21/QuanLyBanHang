@@ -31,6 +31,10 @@ Phần 4: tài khoản
 đối với tài khoản của quản lý sẽ dùng được tất cả chức năng 
 username : admin	
 password: 123456
+
+
+
+
 Đối với tài khoản của nhân viên sẽ chỉ dùng được chức năng đơn đặt hàng
 Username:admin1
 Password :123456
