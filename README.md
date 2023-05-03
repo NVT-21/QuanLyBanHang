@@ -9,13 +9,13 @@ Phần 1 :Cài đặt cơ sở dữ liệu
 
 
 
--cài đặt HEIDISQL : https://www.heidisql.com/download.php
+- cài đặt HEIDISQL : https://www.heidisql.com/download.php
 
 
 
 
 
--Start apache và mysql trong XMAPP
+- Start apache và mysql trong XMAPP
 
 Phần 2 :chay sql
 chạy File "quanlybanhang.sql"   
