@@ -27,6 +27,8 @@ Phần 3: chạy sourch code
 Vào eclipse
 click vào File> open Project form file system... > Directory... > select forder "QLBH" > finish.
 
+Chọn phần view chạy login.java
+
 Phần 4: tài khoản
 đối với tài khoản của quản lý sẽ dùng được tất cả chức năng 
 username : admin	
