@@ -2,6 +2,8 @@
 
  
 Phần 1 :Cài đặt cơ sở dữ liệu 
+
+
  cài đặt XMAPP : https://www.apachefriends.org/index.html
 
 
